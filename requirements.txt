@@ -1,10 +1,7 @@
 Flask
-Gunicorn
-Numpy
-Datetime
+gunicorn
+numpy
+datetime
 keras
-sklearn
-Os
-encode_schema
-cnn_models
-load_model
+scikit-learn
+tensorflow
