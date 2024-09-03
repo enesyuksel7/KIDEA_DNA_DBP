@@ -1,3 +1,9 @@
 Flask
 Gunicorn
 Numpy
+Datetime
+Keras
+Sklearn
+Os
+encode_schema
+cnn_models
