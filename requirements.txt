@@ -2,8 +2,9 @@ Flask
 Gunicorn
 Numpy
 Datetime
-Keras
-Sklearn
+keras
+sklearn
 Os
 encode_schema
 cnn_models
+load_model
